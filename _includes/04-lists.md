@@ -1,5 +1,5 @@
-C
-C++
-Python
-Java
-MYSQL
+- C
+- C++
+- Python
+- Java
+- MYSQL
